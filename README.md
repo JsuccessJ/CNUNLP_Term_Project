@@ -3,13 +3,14 @@
 
 Zeroshot-based Documentation Summary with LoRA Finetuning.
 
-Dataset Xsum
+# Dataset Xsum
 Size
 Train : 204017
 Validation : 11327
 Test : 11333
 ![image](https://github.com/JsuccessJ/CNUNLP_Term_Project/assets/132157712/47bf6328-7a83-4932-8a87-5cbb174c0271)
 
+#  Tokens < 256
 Train : 204017 -> 47758 (23.4%)
 Validation : 11327 -> 2670 (23.5%)
 Test : 11333 -> 2625 (23.1%)
