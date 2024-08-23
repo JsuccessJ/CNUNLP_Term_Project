@@ -3,7 +3,7 @@
 
 # Zeroshot-based Documentation Summary with LoRA Finetuning.
 ### 정리 pdf 링크
-https://docs.google.com/presentation/d/14kopHIcWWzZLEe5WrmtuSXShBuKw9iWA/edit?usp=drive_link&ouid=115588913964210725167&rtpof=true&sd=true
+https://drive.google.com/file/d/1Wjclbzj2ZCZjo3iLIuIqbyp2hZV3TTgr/view?usp=sharing
 <dr><dr>
 # Dataset Xsum
 Size
