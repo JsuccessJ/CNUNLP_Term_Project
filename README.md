@@ -2,7 +2,9 @@
 2024-1 CNUNLP_TERM_PROJECT
 
 # Zeroshot-based Documentation Summary with LoRA Finetuning.
-
+### 정리 pdf 링크
+https://docs.google.com/presentation/d/14kopHIcWWzZLEe5WrmtuSXShBuKw9iWA/edit?usp=drive_link&ouid=115588913964210725167&rtpof=true&sd=true
+<dr><dr>
 # Dataset Xsum
 Size
 Train : 204017
