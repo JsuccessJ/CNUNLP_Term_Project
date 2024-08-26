@@ -1,10 +1,26 @@
+<div align="center">
+  <img width="797" alt="image" src="https://github.com/user-attachments/assets/b4cbd7f4-1325-4959-8eb8-f44bab32cc33">
+</div>
+
 # CNUNLP_Term_Project
 2024-1 CNUNLP_TERM_PROJECT
 
 # Zeroshot-based Documentation Summary with LoRA Finetuning.
-### 정리 pdf 링크
-https://drive.google.com/file/d/1Wjclbzj2ZCZjo3iLIuIqbyp2hZV3TTgr/view?usp=sharing
-<dr><dr>
+
+<div align="center">
+  <strong style="font-size: 1.2em;">정리 pdf 링크 (이미지 클릭)</strong>  
+  <br>
+  ⬇⬇⬇⬇⬇
+</div>
+
+<div align="center">
+  <a href="https://drive.google.com/file/d/1Wjclbzj2ZCZjo3iLIuIqbyp2hZV3TTgr/view?usp=sharing">
+    <img width="797" alt="image" src="https://github.com/user-attachments/assets/b4cbd7f4-1325-4959-8eb8-f44bab32cc33">
+  </a>
+</div>
+
+<br><br><br><br><br>
+
 # Dataset Xsum
 Size
 Train : 204017
