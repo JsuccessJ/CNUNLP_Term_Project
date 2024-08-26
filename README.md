@@ -1,7 +1,3 @@
-<div align="center">
-  <img width="797" alt="image" src="https://github.com/user-attachments/assets/b4cbd7f4-1325-4959-8eb8-f44bab32cc33">
-</div>
-
 # CNUNLP_Term_Project
 2024-1 CNUNLP_TERM_PROJECT
 
