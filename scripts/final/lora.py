@@ -21,6 +21,7 @@ tokenizer = AutoTokenizer.from_pretrained(
     cache_dir="/data/huggingface_models/"
 )
 
+# 아래 config부분이 가장 중요한 부분이다
 lora_config = LoraConfig(
     r=16,
     lora_alpha=32,
